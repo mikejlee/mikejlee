@@ -1,7 +1,8 @@
 # Mike Lee
 Let's turn sci-fi into reality.  
 
-💬 Ask me about: operational dashboards, data visualization, virtual reality, and motion graphics on the web.
+💬 Ask me about: operational dashboards, data visualization, virtual reality, and motion graphics on the web.  
+📚 If you like reading, check out some books from my [Reading List](./ReadingList.md)
 
 ## Experiments
 * [CodePen](https://codepen.com/mikejlee)
