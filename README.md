@@ -2,7 +2,7 @@
 Let's turn sci-fi into reality.  
 
 💬 Ask me about: operational dashboards, data visualization, virtual reality, and motion graphics on the web.  
-📚 If you like books, check out my [recommended reads](./ReadingList.md).
+📚 If you like books, check out my [recommended reads](https://github.com/mikejlee/mikejlee/blob/master/ReadingList.md).
 
 ## Experiments
 * [CodePen](https://codepen.com/mikejlee)
