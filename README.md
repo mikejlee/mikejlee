@@ -1,4 +1,11 @@
-### Hi there 👋
+# Mike Lee
+Let's turn sci-fi into reality.  
+
+💬 Ask me about: operational dashboards, data visualization, virtual reality, and motion graphics on the web.
+
+## Experiments
+* [CodePen](https://codepen.com/mikejlee)
+* [ObservableHQ](https://observablehq.com/@mikejlee)
 
 <!--
 **mikejlee/mikejlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
