@@ -1,6 +1,8 @@
 # Mike Lee's Reading List
 
-A collection of books that I found valuable in my quest for domain knowledge over the years.
+A collection of books that I found valuable in my quest for domain knowledge.
+
+○~○
 
 ## Behavioral Economics / Psychology
 * _Thinking, Fast and Slow_ by Daniel Kahneman
