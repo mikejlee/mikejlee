@@ -1,7 +1,7 @@
 # Mike Lee
 Let's turn sci-fi into reality.  
 
-💬 Ask me about: UX design for operations, data visualization, virtual reality, and motion graphics on the web.  
+💬 Ask me about: UX design for operations software, data visualization, motion graphics, and mixed reality.  
 📚 Interested in book recommendations? Check out my [reading list](https://github.com/mikejlee/mikejlee/blob/master/ReadingList.md).
 
 ## Experiments
